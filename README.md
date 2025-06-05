@@ -1,4 +1,4 @@
-# Dockerizing a Simple Python Flask Web Application
+# Dockerizing A Simple Python Flask Web Application
 
 This project demonstrates how to create a Docker container for a simple Python Flask web application. It provides a step-by-step guide for building and running the application within a Docker environment, making deployment and scaling easier.
 
