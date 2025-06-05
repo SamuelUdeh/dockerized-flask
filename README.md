@@ -28,8 +28,9 @@ Make sure you have Docker installed on your machine. You can download it from [D
 
 Navigate to the project directory and build the Docker image using the following command:
 
-```bash
+```
 docker build -t myflaskapp .
+```
 
 ![Project4](https://github.com/user-attachments/assets/fb06459e-ebf6-4ac0-85d9-bea528436f52)
 
@@ -39,6 +40,7 @@ Run the Docker container with the following command:
 ```
 docker run -p 5000:5000 myflaskapp
 ```
+
 ![Project4b](https://github.com/user-attachments/assets/37460638-ec3b-4138-afb6-655545af84d0)
 
 ## Access the Web Application
