@@ -24,6 +24,15 @@ This project demonstrates how to create a Docker container for a simple Python F
 
 Make sure you have Docker installed on your machine. You can download it from [Docker's official website](https://www.docker.com/get-started).
 
+### Clone the Repository
+
+Use the following command to clone the repository:
+
+```
+git clone https://github.com/yourusername/dockerized-flask.git
+cd dockerized-flask
+```
+
 ### Build the Docker Image
 
 Navigate to the project directory and build the Docker image using the following command:
